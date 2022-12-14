@@ -11,5 +11,5 @@ e[i] = exp(1)
 end
 
 using Plots
-scatter(k,v,ylabel = "value", ylims = (0,3)
+scatter(k,v,ylabel = "value", ylims = (0,3))
 scatter(k,e)
